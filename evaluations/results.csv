@@ -1,0 +1,369 @@
+question,expected_answer,category,retrieved_context,generated_answer,latency_seconds,retrieved_chunks
+What are the benefits of microservices?,"Microservices provide scalability, independent deployment, faster releases and better maintainability.",microservices,"Microservices architecture addresses various 
+known challenges effectively but has some out-
+turns and challenges.
+Now, does the Microservice architecture style 
+benefit your business/application?
+
+Microservices Execution Playbook
+1 2
+Chapter 1 
+Microservices Architecture - 
+Decision Map
+There are many reasons to consider Microservices architecture:
+• Microservices are vital for digital transformation because they allow the agility and scalability 
+necessary for developing solutions;
+• They enable the adoption of cloud technologies, lowering infrastructure costs;
+• Microservices decrease the team’s reliance on technologies.
+• Higher development speed and lower downtime improve the company’s existing businesses.
+• Microservices allow the creation of high-scalability and high-availability solutions.
+But the decision to use Microservices is guided by a multitude of factors. Here is an apt 
+representation that will likely help in arriving at a decision.
+
+Figure: 8.2 - Key queries to assess in the enterprise Microservices journey
+So, a Microservices architecture can provide 
+many benefits for enterprises or applications, 
+including agility, scalability, and high availability, 
+but it also presents challenges. 
+When organizations build Microservices-based 
+applications or transform existing applications 
+into a Microservices architecture, they need 
+to analyze and assess their current situation 
+to identify areas that need improvement; how 
+can they ensure that they have followed the 
+right approach, have reduced the organization 
+risk and have maximized the benefits of the 
+Microservices architecture and how to improve it?
+Some of the important queries while assessing 
+the enterprise Microservices journey are shown 
+in the figure below.
+
+Microservices Execution Playbook
+81 82
+Advantages and disadvantages of this pattern:
+Advantages:
+• In comparison to virtual machines, 
+containers are almost weightless. Thus, 
+there is a difference between building and 
+booting up - container images take much 
+less time.
+• With this pattern, there is a possibility to 
+step back from managing Microservices 
+and concentrate on the business goals 
+because of the particular container 
+administrating API that helps us through 
+the process.
+• In terms of service insulation, containers 
+are almost identical to virtual machines - 
+you can control and monitor the resources 
+swallowed by each container.
+Disadvantages:
+• Containers often need additional resources 
+provisioning for extra costs to handle 
+massive load spikes.
+
+Microservices are considered the vital building 
+block for enabling digital business. 
+Microservices have gained a lot of attention  
+(*see trends) in the last few years and offer a 
+plethora of benefits like independent scale, 
+faster, smaller, and independent deployments 
+with the ability to roll back part of the overall 
+solution, etc. However, its adoption requires 
+an analytical assessment for business fitment, 
+an absolute level of engineering discipline, the 
+right size tech stack, and the technical skills to 
+develop it. 
+Getting expertise in all technological areas is 
+tough as the technology frameworks, tools, 
+patterns, and libraries are evolving quickly and 
+continuously improving. One of the key reasons 
+for frustration during development is that we","The benefits of microservices include:
+
+1. Agility and scalability necessary for developing solutions
+2. Enabling the adoption of cloud technologies, lowering infrastructure costs
+3. Decreasing the team's reliance on technologies
+4. Higher development speed and lower downtime to improve the company's existing businesses
+5. Allowing the creation of high-scalability and high-availability solutions
+6. Independent scale
+7. Faster, smaller, and independent deployments with the ability to roll back part of the overall solution. 
+
+Additionally, using containers in microservices provides benefits such as:
+1. Containers are almost weightless and take less time to build and boot up compared to virtual machines
+2. Possibility to step back from managing microservices and concentrate on business goals
+3. Service insulation, with the ability to control and monitor resources used by each container.",0.84,5
+What is Sustainable IT?,Sustainable IT focuses on reducing carbon and resource impact through optimization and smart data.,sustainability,"18
+Innovation Culture | Practices
+Responsible Design
+Responsible design services to support you in the path of 
+sustainable innovation from Research to final product and 
+experience design with focus on resource sobriety.
+Sustainable IT
+IT carbon and water impact grows as with AI & Big Data 
+drives IT energy and space demand grows. CPU usage 
+optimization  and Smart Data reduce the impact 
+of new technologies.
+Sustainable Value Chains
+We help to create integrated 
+circular value and supply 
+chains to optimize industries 
+and processes and create new 
+transformation 
+pathways.
+
+7
+See more at https://www.hitachi.com/sustainability/index.html
+Sustainability is Hitachi’s ‘Why’
+Value creation for people and planet
+Hitachi is driven by our mission and our responsibility to advance a 
+sustainable future for all. We collaborate to bring impact to customers, 
+partners and society at large.
+
+Sustainability is central to our ‘why’: our customers include many of the world’s leading corporations who view us as an 
+extension of them. We need to demonstrate that our Sustainability commitments align with theirs and that we are their 
+partner in achieving their own ambitious goals.
+Sustainability is also core to our vibrant workforce. 90 percent of our employees are Millennials and Gen Zers: they bring 
+their whole selves to work and are passionate about living their values. Corporate Social Responsibility, DEI, and Green are 
+in our DNA and expressed in hundreds of initiatives and events across every region. 
+It is an honor to present the highlights of our Sustainability story and to support our customers, employees, and society 
+by living into a more sustainable future.
+
+12
+Green (Environment)
+We take on the challenge of building digital solutions that serve a greater purpose for 
+society and the planet. 
+GlobalLogic supports our customers, some of the world’s largest enterprises, to fulfill 
+their own ambitious Sustainability goals.
+Our teams deliver innovations and digital transformations in decarbonization, resource 
+efficiency, circular economy, connected mobility, and green technology across:
+— Mobility
+— Energy
+— Telecommunications
+— Financial Services
+— Manufacturing
+— Communications | Media
+— Technology
+— Consumer retail
+Contributions to UN Sustainable 
+Development Goals:
+
+1
+Sustainability at GlobalLogic
+Executive Summary
+Fiscal Year 2023 Report","Sustainable IT refers to reducing the environmental impact of IT, specifically the growing carbon and water impact of IT due to AI and Big Data, by optimizing CPU usage and using Smart Data to minimize the energy and space demand of new technologies.",0.53,5
+What sustainability initiatives are mentioned?,"GlobalLogic focuses on decarbonization, resource efficiency, circular economy, connected mobility, green technology, Responsible Design and Sustainable IT.",sustainability,"8
+A Message from our Global Head of Sustainability
+Sustainability is a continuum, a journey of constant improvement, with the UN Sustainable Development Goals 
+as our guiding principles. 
+As part of the Hitachi Group, our mission is:
+“to realize a sustainable society through contributing to the resolution of global social and 
+environmental issues as defined by the SDGs, and we consider it to be a source of sustainable growth 
+for us. We are striving to create social, environmental, and economic value through our Social 
+Innovation Business, as well as working to reduce negative social and environmental impacts.” 
+Sustainability is central to our ‘why’: our customers include many of the world’s leading corporations who view us as an
+
+1
+Sustainability at GlobalLogic
+Executive Summary
+Fiscal Year 2023 Report
+
+12
+Green (Environment)
+We take on the challenge of building digital solutions that serve a greater purpose for 
+society and the planet. 
+GlobalLogic supports our customers, some of the world’s largest enterprises, to fulfill 
+their own ambitious Sustainability goals.
+Our teams deliver innovations and digital transformations in decarbonization, resource 
+efficiency, circular economy, connected mobility, and green technology across:
+— Mobility
+— Energy
+— Telecommunications
+— Financial Services
+— Manufacturing
+— Communications | Media
+— Technology
+— Consumer retail
+Contributions to UN Sustainable 
+Development Goals:
+
+18
+Innovation Culture | Practices
+Responsible Design
+Responsible design services to support you in the path of 
+sustainable innovation from Research to final product and 
+experience design with focus on resource sobriety.
+Sustainable IT
+IT carbon and water impact grows as with AI & Big Data 
+drives IT energy and space demand grows. CPU usage 
+optimization  and Smart Data reduce the impact 
+of new technologies.
+Sustainable Value Chains
+We help to create integrated 
+circular value and supply 
+chains to optimize industries 
+and processes and create new 
+transformation 
+pathways.
+
+2
+Table of contents
+1. About GlobalLogic
+2. Overview: GlobalLogic | Hitachi Sustainability
+3. Message from Global Head of Sustainability
+4. Corporate Social Responsibility
+5. Environment 
+6. Diversity, Equity & Inclusion
+7. Innovation Culture | Sustainability Practice Areas
+8. Numbers | Resources","The following sustainability initiatives are mentioned:
+
+1. Decarbonization
+2. Resource efficiency
+3. Circular economy
+4. Connected mobility
+5. Green technology
+6. Responsible design
+7. Sustainable IT (including CPU usage optimization and Smart Data)
+8. Creation of integrated circular value and supply chains to optimize industries and processes.",0.46,5
+How does GlobalLogic help healthcare organizations improve patient experience?,"GlobalLogic builds digital healthcare platforms, connected health systems and patient therapy solutions to improve engagement and outcomes.",healthcare,"develop solutions ranging from embedded medical device software 
+to Software as Medical Devices (SaMD) and other patient therapy 
+devices, as well as connected health systems and digital healthcare 
+platforms. GlobalLogic can assist and augment a customer’s existing 
+resources or deliver turnkey solutions that are ready to go to market. 
+In these pages, we will share the stories of organizations who 
+partnered with GlobalLogic to create enhanced patient value that 
+drives business outcomes. These organizations have strengthened 
+their ability to create world-class digital patient experiences, get 
+products to market faster, uncover and capture new revenue streams, 
+and transform healthcare through technology and innovation.
+
+GlobalLogic Partnerships 
+That Transform Patient 
+Care Services
+Read on
+
+for medical devices can make data more readily and rapidly available 
+to be analyzed, creating opportunities for product innovation. And 
+creating a user-friendly mobile app that communicates with a 
+patient’s medical therapy device can increase patient engagement, 
+enabling much better patient performance, improving patient 
+satisfaction, and helping the patient complete their therapy faster. 
+If your organization is pursuing digital transformation and is looking 
+to adopt cutting-edge modern technologies in a strictly regulated 
+environment, GlobalLogic can help.
+GlobalLogic has helped MedTech and Life Sciences customers 
+develop solutions ranging from embedded medical device software 
+to Software as Medical Devices (SaMD) and other patient therapy
+
+Technology, and Life Sciences landscape around the world with the 
+expertise, experience, and best practices to design and build innovative 
+products, platforms, and digital experiences. Through our partnership 
+approach, GlobalLogic serves as a trusted advisor in helping our 
+customers improve both patient and clinician outcomes.
+
+About GlobalLogic
+With more than 20 years of experience in regulated software 
+product development and engineering, GlobalLogic helps leading 
+Medical Technology, Medical Devices, Pharma, and Life Sciences 
+organizations create world-class digital experiences, accelerate 
+product development, and capture new revenue streams. 
+Our 2,300+ industry-dedicated engineers use their deep knowledge 
+of ISO/IEC standards to build fruitful partnerships with developers 
+of regulated medical products. We have extensive clinical-trials 
+experience and have developed highly valued consumer apps (across 
+multiple industries). 
+We’ve also developed numerous data interfaces — some proprietary, 
+some using HL7 standards — to meet complex data analysis, security,","GlobalLogic helps healthcare organizations improve patient experience by developing solutions such as embedded medical device software, Software as Medical Devices (SaMD), and other patient therapy devices, as well as connected health systems and digital healthcare platforms. They also create user-friendly mobile apps that communicate with medical therapy devices, which can increase patient engagement, enable better patient performance, improve patient satisfaction, and help patients complete their therapy faster. Additionally, GlobalLogic assists organizations in adopting cutting-edge technologies to design and build innovative products, platforms, and digital experiences that enhance patient value and drive business outcomes.",0.47,5
+What cloud modernization services does GlobalLogic offer?,"GlobalLogic offers cloud enablement, SaaSification, modernization and cloud-native transformation services.",cloud,"with GlobalLogic to work on a multi-year strategy to incrementally modernize, digitalize and unify 
+their core businesses with the aim of faster time-to-market and much better and faster user 
+experience.
+In this section, we will refer to this case study and deep dive into the different DevOps deployment 
+models and strategies we implemented for the client.
+This energy client follows the Microservices 
+architecture-based platform and deploys its 
+different technology components, that is, 
+Microservices, Database, Kafka (Messaging 
+Broker), RabbitMQ (Message Broker), Elastic-
+Search, etc., to Microsoft Azure Cloud 
+infrastructure.
+We deployed multiple Docker image containers 
+in each Kubernetes POD for this client. As 
+shown below, we have 1 Docker container
+
+is prepared with the people and processes to get the 
+full benefit of cloud-native transformation. We provide 
+repeatable, scalable, migrate-and-run operations to drive 
+tangible business outcomes on the cloud and leverage 
+proven approaches to software delivery and IT operations 
+at speed and scale. If SaaSification is the right strategy for 
+your company, we can help you execute the transition and 
+ensure that your business gets the full benefit of the cost 
+savings of a multi-tenant environment. Taking full advantage 
+of a cloud-native environment, GlobalLogic works with you 
+to build big data and analytics platforms to drive real-time 
+customer insights, transforming your business with smart 
+products, operations, and services that drive immersive 
+experiences for your customers.
+75+
+
+2
+SOLUTION GUIDE
+Table of Contents
+3 Introduction
+4 Software Modernization
+GlobalLogic brings extensive experience building 
+enterprise-level, highly scalable solutions across 
+business domains to focus on your business 
+challenges with a team of  architects and a 
+track record of successful digital transformation 
+engagements.
+6 Digital Quality Assurance
+GlobalLogic creates accelerators in the QA space 
+for progression/regression testing automation, 
+QA infrastructure optimization, and AI/ML-based 
+regression test case prioritization to drive cycle  
+time reduction, best practices enforcement, and 
+velocity increase.
+8 Data Platform Engineering
+GlobalLogic can help you become a “Live and 
+Connected” enterprise. Chart your path forward  
+and unlock your data’s real potential with Data
+
+GlobalLogic can help you become a “Live and 
+Connected” enterprise. Chart your path forward  
+and unlock your data’s real potential with Data 
+Strategy and Platform advisory and Data Platform 
+Engineering Service.
+10 Design UI/UX
+GlobalLogic can help you create human-centric 
+solutions in digital spaces leveraging our user-
+centered design studio where research and 
+innovation-oriented design are equally balanced  
+and thoroughly integrated.
+12 Cloud Enablement and SaaSification
+GlobalLogic can help your enterprise through  
+every stage of cloud enablement, from assessing your 
+environment and planning an optimal cloud solution 
+to executing your migration to the cloud to ensuring 
+that your organization is prepared with the people 
+and processes to get the full benefit of cloud-native
+
+that your organization is prepared with the people 
+and processes to get the full benefit of cloud-native 
+transformation.
+14 Professional Services
+GlobalLogic professional services leverage best 
+practices and a proven methodology through a 
+cross-functional team of product engineers, technical 
+support, and customer service support to deliver an 
+end-to-end service.
+16 Conclusion
+GlobalLogic creates world-class experiences, 
+accelerates new product and feature development, 
+and captures new revenue streams for some of the 
+world’s leading enterprise ISVs.","According to the context, GlobalLogic offers the following cloud modernization services:
+
+1. Cloud Enablement: assessing the environment, planning an optimal cloud solution, and executing migration to the cloud.
+2. SaaSification: transitioning to a multi-tenant environment to achieve cost savings.
+3. Cloud-native transformation: preparing the organization with the right people and processes to get the full benefit of cloud-native transformation.
+4. Software Modernization: building enterprise-level, highly scalable solutions across business domains.
+5. Data Platform Engineering: helping businesses become ""Live and Connected"" enterprises by unlocking their data's potential with Data Strategy and Platform advisory and Data Platform Engineering Service.",0.62,5

@@ -1,0 +1,48 @@
+question,category,expected_answer,generated_answer,correctness,relevance,completeness,hallucination,explanation,latency_seconds,retrieved_chunks
+What are the benefits of microservices?,microservices,"Microservices provide scalability, independent deployment, faster releases and better maintainability.","The benefits of microservices include:
+
+*   **Enabling Digital Business:** Microservices are considered a vital building block for enabling digital business, supporting digital transformation initiatives.
+*   **Faster Development and Deployment:** Container images, often used with microservices, take much less time to build and boot up compared to virtual machines because they are almost weightless.
+*   **Focus on Business Goals:** A particular container administrating API allows businesses to step back from managing microservices and concentrate on their core business goals.
+*   **Service Insulation and Resource Control:** Containers provide service insulation similar to virtual machines, allowing for control and monitoring of resources consumed by each container.",4,5,4,No,The answer is mostly correct and relevant but misses some important points about microservices.,2.99,5
+What is Sustainable IT?,sustainability,Sustainable IT focuses on reducing carbon and resource impact through optimization and smart data.,"Sustainable IT focuses on reducing the environmental impact of information technology. This is achieved by optimizing CPU usage and utilizing Smart Data to lessen the impact of new technologies, especially considering that the carbon and water footprint of IT grows as AI and Big Data drive increased energy and space demands.",5,5,4,No,"The answer is correct and relevant, but could include more details from the retrieved context.",1.25,5
+What sustainability initiatives are mentioned?,sustainability,"GlobalLogic focuses on decarbonization, resource efficiency, circular economy, connected mobility, green technology, Responsible Design and Sustainable IT.","The sustainability initiatives mentioned include:
+
+*   **Adherence to Guiding Principles:**
+    *   Using the UN Sustainable Development Goals (SDGs) as guiding principles.
+    *   Contributing to the resolution of global social and environmental issues as defined by the SDGs.
+
+*   **Value Creation and Impact Reduction:**
+    *   Striving to create social, environmental, and economic value through their Social Innovation Business.
+    *   Working to reduce negative social and environmental impacts.
+
+*   **Technological and Operational Solutions (New Opportunities):**
+    *   Aggregators/Virtual Power Plant/Microgrid solutions.
+    *   H2/Ammonia Biofuels.
+    *   Distributed Energy Resources (DERs), Community Solar Parks, and Roof Top Solar.
+    *   Digital Twin, Decision Support, Adaptive AI, and Observability.
+    *   Improving Crew Productivity, Grid Stability, Trading Demand Response, and Demand Forecasting.
+    *   EV Mobility Platforms.
+    *   Energy as a Service (EaaS) and Energy Efficiency.
+    *   Behind the Meter and Consumption Analytics.
+    *   Flexibilization, Emission Reduction, and Efficiency Optimiser.
+    *   Weather Forecasting.
+    *   Integrated Asset Performance Management, Agility, Reliability & Efficiency.
+    *   Industrial Cloud Platforms.
+    *   Carbon Tracking, Emission Visualization, Reporting & Management.
+
+*   **Software Design:**
+    *   Designing sustainable microservices.",4,5,4,Yes,The answer is mostly correct but contains unsupported statements and misses specific details about GlobalLogic's sustainability initiatives.,5.22,5
+How does GlobalLogic help healthcare organizations improve patient experience?,healthcare,"GlobalLogic builds digital healthcare platforms, connected health systems and patient therapy solutions to improve engagement and outcomes.","GlobalLogic helps healthcare organizations improve patient experience by partnering with them to:
+
+*   Create enhanced patient value.
+*   Strengthen their ability to create world-class digital patient experiences.
+*   Transform healthcare through technology and innovation.",5,5,4,No,The answer is correct and relevant but lacks some important details from the retrieved context.,2.6,5
+What cloud modernization services does GlobalLogic offer?,cloud,"GlobalLogic offers cloud enablement, SaaSification, modernization and cloud-native transformation services.","GlobalLogic offers the following cloud modernization services:
+
+*   **Multi-year strategy development:** They work on strategies to incrementally modernize, digitalize, and unify core businesses.
+*   **Cloud migration:** They efficiently manage migration to the cloud using their Cloudwave Assessment Tool, which is a survey-based process and intelligent categorization engine.
+*   **Agile application development in the cloud:** They help customers with Agile application development in the cloud, leveraging Hitachi's Lumada digital solutions.
+*   **Cloud-native transformation preparation:** They assist organizations in preparing with the necessary people and processes to fully benefit from cloud-native transformation.
+*   **Vendor-agnostic solutions:** They provide unbiased, vendor-agnostic solutions tailored to customer needs across major hyperscalers like AWS, GCP, and Microsoft Azure.
+*   **Deployment of microservices to cloud infrastructure:** As demonstrated in a case study, they deploy microservices architecture-based platforms and their components (e.g., Microservices, Database, Kafka, RabbitMQ, Elastic-Search) to cloud infrastructure such as Microsoft Azure.",4,5,4,Yes,The answer is mostly correct but contains unsupported statements about specific services offered by GlobalLogic.,4.0,5
