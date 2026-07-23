@@ -219,15 +219,7 @@ return
 
 []
 
-==================================================
-Missing Points
-==================================================
 
-List important information from the retrieved context that the answer failed to mention.
-
-Return []
-
-if nothing important is missing.
 
 ==================================================
 Explanation
@@ -248,18 +240,13 @@ Example
 
     "hallucinated_parts":[
         {{
-            "text":"GlobalLogic has 500 offices.",
-            "reason":"Not present in retrieved context.",
+            "text":"...",
+            "reason":"...",
             "severity":"Major"
         }}
     ],
 
-    "missing_points":[
-        "Cloud migration planning",
-        "Cloud-native analytics"
-    ],
-
-    "explanation":"The answer is relevant but contains multiple unsupported factual claims."
+    "explanation":"..."
 }}
 
 Return JSON only.
@@ -292,7 +279,7 @@ Return JSON only.
     # -------------------------------------------------
 
     scores.setdefault("hallucinated_parts", [])
-    scores.setdefault("missing_points", [])
+    
 
     hallucinations = scores["hallucinated_parts"]
 

@@ -279,23 +279,7 @@ automatic evaluation has been skipped.
                 st.caption(f"Reason: {item.get('reason', '')}")
                 st.caption(f"Severity: {item.get('severity', 'Not specified')}")
 
-        # ---------------------------------------
-        # Missing Information
-        # ---------------------------------------
-
-        missing_points = scores.get("missing_points", [])
-
-        if missing_points:
-
-            st.divider()
-            st.subheader("📌 Missing Information")
-
-            st.info(
-                "The following important information is missing from the generated answer."
-            )
-
-            for point in missing_points:
-                st.write(f"• {point}")
+        
 
         # ---------------------------------------
         # Metric Guide
